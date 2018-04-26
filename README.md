@@ -1,3 +1,19 @@
+Keep this folder structure or edit the uaa path in the microservice application properties
+
+```text
+|
+| - UAA
+| - REGISTRY
+  |
+  | - MICROSERVICES
+    |
+    | - Microservice 1
+    | - Microservice 2
+    | - ...
+    | - Microservice N
+```  
+
+
 # multitenancy
 This application was generated using JHipster 4.13.3, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.3](http://www.jhipster.tech/documentation-archive/v4.13.3).
 
